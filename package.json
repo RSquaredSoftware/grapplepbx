@@ -9,6 +9,7 @@
   "author": "Sahat Yalkabov",
   "license": "MIT",
   "scripts": {
+    "forever": "forever start app.js",
     "start": "node app.js",
     "test": "mocha --reporter spec"
   },

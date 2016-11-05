@@ -1,0 +1,12 @@
+.splash {
+  max-width:100%;
+  max-height:100%;
+}
+
+.splash-text{
+  margin: 150px 0px;
+}
+
+.splash-img{
+  margin: 100px;
+}
